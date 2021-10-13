@@ -1,0 +1,12 @@
+﻿  Application.cpp
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\Application.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
+  Button.cpp
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\Button.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
+  Connect4.cpp
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\Application.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
+  Game.cpp
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\Game.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL_ttf.h': No such file or directory
+  Texture.cpp
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\Texture.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
+  Token.cpp
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\Texture.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory

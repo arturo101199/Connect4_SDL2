@@ -1,0 +1,4 @@
+C:\Users\arturo101199\Desktop\c++\LazyFoo\Connect4\Connect4\x64\Debug\Connect4.exe
+C:\Users\arturo101199\Desktop\c++\LazyFoo\Connect4\Connect4\x64\Debug\Connect4.pdb
+C:\Users\Arturo\Desktop\c++\LazyFoo\LazyFoo\Connect4\Connect4\x64\Debug\Connect4.exe
+C:\Users\Arturo\Desktop\Github\Connect4_SDL2\x64\Debug\Connect4.exe

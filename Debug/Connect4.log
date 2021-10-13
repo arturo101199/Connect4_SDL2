@@ -1,0 +1,2 @@
+﻿  03_event_driven_programming.cpp
+LINK : fatal error LNK1104: no se puede abrir el archivo 'SDL2.main.lib'

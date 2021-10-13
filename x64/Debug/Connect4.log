@@ -1,0 +1,10 @@
+﻿  Application.cpp
+  Button.cpp
+  Connect4.cpp
+  Game.cpp
+C:\Users\Arturo\Desktop\Github\Connect4_SDL2\Src\Game.cpp(126,66): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Arturo\Desktop\Github\Connect4_SDL2\Src\Game.cpp(126,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Texture.cpp
+  Token.cpp
+  Generando código...
+  Connect4.vcxproj -> C:\Users\Arturo\Desktop\Github\Connect4_SDL2\x64\Debug\Connect4.exe
